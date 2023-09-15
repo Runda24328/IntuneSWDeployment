@@ -1,0 +1,5 @@
+<Configuration>
+<Remove All="FALSE">
+  <Product ID="O365ProPlusRetail" />
+</Remove>
+</Configuration>
