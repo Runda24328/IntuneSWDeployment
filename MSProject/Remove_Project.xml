@@ -1,0 +1,8 @@
+<Configuration>
+  <Remove All="FALSE">
+    <Product ID="ProjectProRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Remove>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
